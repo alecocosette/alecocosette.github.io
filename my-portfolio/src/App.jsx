@@ -62,20 +62,21 @@ function App() {
         
       </div>
   </div>
-    
+    </div>
     
       {/* Links and resume */}
-    </div>
+    
       <div>
         <a href="https://github.com/alecocosette" target="_blank">
           <img src={GithubLogo} className="logo" alt="Github Logo" />
         </a>
         <a href={resume} target="_blank">
-          <img src={resumeIm} className="logo react" alt="React logo" />
+          <img src={resumeIm} className="logo" alt="React logo" />
         </a>
         <a href="https://www.linkedin.com/in/alejandro-jaimes-coco/" target="_blank">
-          <img src={LinkLogo} className="logo react" alt="React logo" />
+          <img src={LinkLogo} className="logo" alt="React logo" />
         </a>
+        
         
       </div>
       
